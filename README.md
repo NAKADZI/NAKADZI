@@ -1,12 +1,9 @@
-## 📜 Social media profiles
-<p align="left">
-    <a href="https://www.reddit.com/user/retapic"><img height="25px" src="https://user-images.githubusercontent.com/13122796/178032351-9d9d5619-8ef7-470a-9eec-2744ece54553.png" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://t.me/Retapich"><img height="25px" src="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/Retapich"><img height="25px" src="https://user-images.githubusercontent.com/13122796/178032018-6da37214-7474-4641-a1da-7af7db3a31cd.png" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.youtube.com/@Retapich"><img height="25px" widtht="10px" src="https://user-images.githubusercontent.com/13122796/178032714-c51c7492-0666-44ac-99c2-f003a695ab50.png" /></a>&nbsp;&nbsp;&nbsp;
 
-
-<hr>
+- 𝙋𝘾-𝙚𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩✓
+- 𝙞𝙣𝙙𝙞𝙨𝙥𝙤𝙨𝙞𝙩𝙞𝙤𝙣✓
+- 𝙖𝙥𝙖𝙩𝙝𝙚𝙩𝙞𝙘✓
+- 𝙨𝙤𝙢𝙣𝙤𝙡𝙚𝙣𝙘𝙚✓
+- 𝔸𝕊𝔻𝙞𝙨𝙤𝙧𝙙𝙚𝙧✓
 
 ## 💻 Working environment
 [![Windows 11](https://img.shields.io/badge/Win11-0078D4?style=flat-square&logo=windows11&logoColor=white)](https://forums.mydigitallife.net/threads/dynamic-windows-11-setup-tpm-bypass.84063/)
@@ -19,6 +16,17 @@
 
 <hr>
 
+
+## 📜 Social media profiles
+<p align="left">
+    <a href="https://t.me/Retapich"><img height="40px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Telegram.svg" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://reddit.com/user/retapic"><img height="40px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Reddit.svg" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/Retapich"><img height="40px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Twitter.svg" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://instagram.com/retapich/"><img height="40px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Instagram.svg" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://steamcommunity.com/id/retapich"><img height="40px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Steam.svg" /></a>&nbsp;&nbsp;&nbsp;
+
+<hr>
+
 ## 😶‍🌫️⤵️
 
 ![](https://komarev.com/ghpvc/?username=Retapich&style=for-the-badge)
@@ -26,7 +34,7 @@
 
 <!--
 samples:
-
+    <a href="https://www.youtube.com/@Retapich"><img height="40px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Youtube.svg" /></a>&nbsp;&nbsp;&nbsp;
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
