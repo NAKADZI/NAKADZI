@@ -24,7 +24,7 @@
     <a href="https://reddit.com/user/retapic"><img height="40px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Reddit.svg" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/Retapich"><img height="40px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Twitter.svg" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://instagram.com/retapich/"><img height="40px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Instagram.svg" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://steamcommunity.com/id/retapich"><img height="40px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Steam.svg" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://steamcommunity.com/id/retapich"><img height="40px" src="https://github.com/Retapich/Retapich/raw/main/icons/Steam_LikeStock.svg" /></a>&nbsp;&nbsp;&nbsp;
 
 <hr>
 
