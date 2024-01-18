@@ -3,7 +3,6 @@
 - 𝙞𝙣𝙙𝙞𝙨𝙥𝙤𝙨𝙞𝙩𝙞𝙤𝙣✓
 - 𝙖𝙥𝙖𝙩𝙝𝙚𝙩𝙞𝙘✓
 - 𝙨𝙤𝙢𝙣𝙤𝙡𝙚𝙣𝙘𝙚✓
-- 𝔸𝕊𝔻𝙞𝙨𝙤𝙧𝙙𝙚𝙧✓
 
 ## 💻 Working environment
 [![Windows 11](https://img.shields.io/badge/Win11-0078D4?style=flat-square&logo=windows11&logoColor=white)](https://forums.mydigitallife.net/threads/dynamic-windows-11-setup-tpm-bypass.84063/)
@@ -20,10 +19,10 @@
 ## 📜 Social media profiles
 <p align="left">
     <a href="https://forum.xda-developers.com/t/index-redmi-3-custom-roms-kernels-etc-19-02-2021.4099085/"><img height="40px" src="https://github.com/Retapich/Retapich/raw/main/icons/XDA_dev-ICON_v8_by_Retapich.svg" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://t.me/Retapich"><img height="40px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Telegram.svg" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://reddit.com/user/retapic"><img height="40px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Reddit.svg" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/Retapich"><img height="40px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Twitter.svg" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/retapich"><img height="40px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Twitter.svg" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://instagram.com/retapich/"><img height="40px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Instagram.svg" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://t.me/retapich"><img height="40px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Telegram.svg" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://steamcommunity.com/id/retapich"><img height="40px" src="https://github.com/Retapich/Retapich/raw/main/icons/Steam_LikeStock.svg" /></a>&nbsp;&nbsp;&nbsp;
 
 <hr>
@@ -35,7 +34,7 @@
 
 <!--
 samples:
-    <a href="https://www.youtube.com/@Retapich"><img height="40px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Youtube.svg" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.youtube.com/@retapich"><img height="40px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Youtube.svg" /></a>&nbsp;&nbsp;&nbsp;
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
